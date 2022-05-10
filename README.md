@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Oliveira-Lucas1379
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning SQL Server
+- 📫 How to reach me: 
+-   e-mail: oliveira.lucas1379@gmail.com
+-   twitter: Lugaos_S2
